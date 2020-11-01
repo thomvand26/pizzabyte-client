@@ -1,0 +1,15 @@
+{
+  "short_name": "Pizza Byte",
+  "name": "Pizza Byte - snack app",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "64x64 32x32 24x24 16x16"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#c10303",
+  "background_color": "#faf1e1"
+}
